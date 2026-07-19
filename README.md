@@ -52,7 +52,7 @@ YouTube-Clone/
 
 ---
 
-## 🔎 Search Functionality
+## 🔎 Search Functionality 
 
 * Filters videos in real-time
 * Matches:
