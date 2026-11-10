@@ -145,3 +145,7 @@ This project is licensed under the **MIT License**.
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daim_Ali-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daimx1214/)
